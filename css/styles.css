@@ -5,9 +5,10 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #28a745; /* Green color */
     color: white;
-    padding: 20px 0;
+    text-align: center;
+    padding: 1rem 0;
 }
 
 nav {
